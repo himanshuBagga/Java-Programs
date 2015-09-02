@@ -1,4 +1,4 @@
-class A{
+public class A{
 public static void main(String a[]){
 B b = new B();
 System.out.println("Result "+b.c);
